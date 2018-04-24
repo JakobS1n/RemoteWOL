@@ -1,0 +1,13 @@
+{
+  "name": "remotewol",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-wol": "^0.1.1"
+  }
+}
