@@ -26,7 +26,7 @@ let requestHandler = (req, res) => {
             break;
 
         case "/":
-            res.end("<h1>heim.jakobstendahl.tk WOL</h1><a href=\"wakeAll\">Wake all devices</a>");
+            res.end("<h1>Remote WakeOnLan</h1><a href=\"wakeAll\">Wake all devices</a>");
             break;
 
 
